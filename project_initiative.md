@@ -45,7 +45,7 @@ Blockwave is developed by a joined team from [moac.io]() and [dearwave.org]().
 
 System use both smart contract on MOAC blockchain for data persistancy and a centrealized db for application performance to store data.
 
-#### Data on block chain
+#### Data on MOAC blockchain
 
 * User (Reviewer, Node)
 * SciDoc Hash
